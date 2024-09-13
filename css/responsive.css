@@ -1,0 +1,271 @@
+@media (max-width: 1200px) {
+    .nav-link {
+        font-size: 13px;
+    }
+    .comman-hadding {
+        font-size: 40px;
+    }
+    .comman-button {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+    .event-card .card-body p {
+        font-size: 18px;
+    }
+    .Journals-text h4 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 992px) {
+    .story-text {
+        padding: 0px 50px;
+    }
+    .event-card .card-body a.comman-button {
+        display: inline-block;
+        margin-top: 10px;
+    }
+    .event-card .card-body {
+        display: block;
+    }
+    .Jewelry-sec {
+        padding: 0px;
+    }
+    .comman-hadding {
+        font-size: 32px;
+    }
+    .Jewelry span {
+        padding: 5px 12px;
+        margin-right: 8px;
+        font-size: 14px;
+    }
+    .story-page-text {
+        max-width: 100%;
+        padding-left: 20px;
+    }
+    .hotel {
+        max-width: 400px;
+        padding: 40px;
+    }
+    .login-section .form-control.otp-input {
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        padding: 0;
+    }
+    .navbar {
+        display: none;
+    }
+    button.menuToggle{
+        display: block;
+    }
+}
+
+@media (max-width: 767px) {
+.main-contant h1 {
+    font-size: 32px;
+}
+.comman-button {
+    font-size: 16px;
+    padding: 10px 25px;
+}
+.main-contant {
+    bottom: 60px;
+    padding: 0px 15px;
+}
+.hotel {
+    max-width: 350px;
+    padding: 40px 20px;
+}
+.registration-form {
+    padding: 30px;
+}
+section.global > img {
+    display: none;
+}
+.story-text {
+    padding: 0px 40px;
+}
+section.global {
+    height: auto;
+    padding-bottom: 30px;
+}
+.insta-box {
+    max-width: 48%;
+    margin: 0px 0px 20px 0px;
+}
+.insta-section {
+    flex-wrap: wrap;
+}
+.incomparable-slider {
+    position: relative;
+    margin-top: 40px;
+}
+.valued-inner {
+    padding: 20px 20px 0px 20px;
+}
+.footer-text ul li a, .footer-text p {
+    text-align: center;
+    display: block;
+}
+.footer-logo img {
+    margin: 30px auto;
+}
+.fotter-boottom .text-end {
+    text-align: left !important;
+    margin-top: 10px;
+}
+.Exhibit-box {
+    height: auto;
+    margin-bottom: 20px;
+}
+.event-card-home .slick-arrow {
+    top: calc(50% - 75px);
+    right: 0px;
+    height: 40px;
+    width: 40px;
+}
+.event-card {
+    padding: 0px 20px;
+}
+.event-card-home button.slick-prev.slick-arrow {
+    left: 0;
+}
+.event-card-home .slick-arrow:before {
+    width: 18px;
+    top: 20px;
+}
+.event-card-home .slick-arrow:after {
+    top: 15px;
+}
+.event-card-home .slick-arrow:after {
+    top: 16px;
+    left: 18px;
+}
+section.global .container-fluid {
+    padding: 0px 15px;
+}
+.whout-banner {
+    margin-top: 150px;
+}
+.login-section p {
+    margin-bottom: 35px;
+}
+.profile-box {
+    max-width: 70%;
+}
+p.parr {
+    font-size: 14px;
+    line-height: 26px;
+}
+.story-page-image {
+    max-width: 280px;
+    max-height: 280px;
+}
+.story-page-image:before {
+    height: 220px;
+    width: 220px;
+    bottom: -30px;
+    left: -30px;
+}
+.reversRow {
+    flex-direction: column-reverse;
+    margin-bottom: 40px;
+}
+
+.reversRow .mt-5 {
+    margin-top: 0 !important;
+}
+}
+
+@media (max-width: 576px) {
+    .hotel {
+        max-width: 270px;
+        padding: 20px;
+    }
+    .hotel h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    .hotel p {
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+    .hotel h6 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .registration-form p {
+        padding-top: 5px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .event-card {
+        padding: 0;
+    }
+    .incomparable-box {
+        padding-right: 0;
+    }
+    .valued-inner {
+        padding: 20px 0px;
+    }
+    .Journals-box {
+        padding: 0;
+    }
+    .Journals-text {
+        padding-bottom: 0;
+    }
+    .Valued-wrap {
+        padding-bottom: 0px;
+    }
+    section.Golden {
+        padding: 30px 0px;
+    }
+    .story-text {
+        padding: 0px;
+    }
+    .footer-logo img {
+        max-width: 200px;
+        max-height: 80px;
+    }
+    .main-contant p {
+        width: 100%;
+    }
+    br {
+        display: none;
+      }
+      .comman-wrsp p {
+        line-height: 28px;
+    }
+    .image-section {
+        padding: 0px 15px;
+    }
+    .login-section {
+        margin: 15px;
+        width: calc(100% - 30px);
+        margin-bottom: 0;
+    }
+    .profile-box {
+        max-width: 80%;
+        padding: 45px 25px 0px 25px;
+    }
+    .mobile-menu{
+        width: 100%;
+    }
+    
+    
+}
+
+@media (max-width: 380px) {
+    .login-section .form-control.otp-input {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 360px) {
+    .story-page-image {
+        max-width: 230px;
+        max-height: 230px;
+    }
+}
